@@ -1,1 +1,8 @@
 streamlit
+matplotlib
+wordcloud
+Pillow
+numpy
+requests
+networkx
+pyvis
