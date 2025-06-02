@@ -371,7 +371,7 @@ def analyze_network_metrics(G, keywords_dict):
 
 # 앱 제목 및 설명
 st.title("🤖 GPT API 키워드 추출 & 워드클라우드 생성기")
-st.markdown("GPT API를 활용하여 텍스트에서 핵심 키워드를 추출하고 가중치와 함께 워드클라우드를 생성합니다!")
+st.markdown("GPT API를 활용하여 텍스트에서 핵심 키워드를 추출하고 가중치와 함께 워드클라우드를 생성합니다! 네트워크 분석은 영어만 가능합니다. 한국어의 경우 좌측 하단 네트워크 분석 포함을 해제해주세요!")
 
 # 사이드바 설정
 st.sidebar.header("🔑 API 설정")
